@@ -9,8 +9,6 @@
 #import "ViewController.h"
 #import <AVFoundation/AVFoundation.h>
 
-#import "SecondPatrOne.h"
-
 @interface ViewController ()
 
 @property(strong,nonatomic) AVSpeechSynthesizer *syn;
