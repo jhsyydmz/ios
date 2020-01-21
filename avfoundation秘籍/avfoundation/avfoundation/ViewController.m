@@ -23,7 +23,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    self.view.backgroundColor = UIColor.redColor;
+//    self.view.backgroundColor = UIColor.redColor;
     
     //读音
 //    AVSpeechSynthesizer *synthesizer = [[AVSpeechSynthesizer alloc]init];
